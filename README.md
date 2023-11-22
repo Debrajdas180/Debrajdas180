@@ -7,4 +7,4 @@ My name is Debraj Das a electronics hardware developer from kolkata, India.
 
 
 
-![Alt text]((https://pbs.twimg.com/media/FyRNPqFXsAILCMA.png)https://pbs.twimg.com/media/FyRNPqFXsAILCMA.png)
+![Alt text](https://pbs.twimg.com/media/FyRNPqFXsAILCMA.png)
