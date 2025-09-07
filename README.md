@@ -1,11 +1,17 @@
-✨ Who am I?
-My name is Debraj Das a electronics hardware developer from kolkata, India.
+# 👋 Hey there, I'm Debraj Das  
 
-💻 CAD Tools i Used that I use :
+✨ **Who am I?**  
+I’m an **Electronics Hardware Developer** from **Kolkata, India**, passionate about designing circuits, working with embedded systems, and exploring the latest in hardware technologies.  
 
-![Alt text](https://imgs.search.brave.com/iv_fz3npIzI6XGzmizo4x_-CccVzbVphxGVlWYk8tWY/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzU5L0tp/Q2FkLUxvZ28uc3Zn/LzY0MHB4LUtpQ2Fk/LUxvZ28uc3ZnLnBu/Zw)
+---
 
+## 💻 CAD Tools I Use  
 
-![Alt text](https://pbs.twimg.com/media/FyRNPqFXsAILCMA.png)
+Here are some of the key tools I work with in my daily development and design process:  
 
+![KiCad Logo](https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg)  
+![Cadence Logo](https://pbs.twimg.com/media/FyRNPqFXsAILCMA.png)  
 
+---
+
+🚀 Always exploring new technologies, improving my skills, and building innovative hardware solutions.  
