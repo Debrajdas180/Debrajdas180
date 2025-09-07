@@ -10,7 +10,7 @@ I’m an **Electronics Hardware Developer** from **Kolkata, India**, passionate 
 Here are some of the key tools I work with in my daily development and design process:  
 
 ![KiCad Logo](https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg)  
-![Cadence Logo](https://pbs.twimg.com/media/FyRNPqFXsAILCMA.png)  
+![Cadence Logo](https://cdn.files.altium.com/sites/default/files/2024-12/AD-logo-horizontal-BLK.svg)  
 
 ---
 
