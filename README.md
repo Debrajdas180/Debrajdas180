@@ -14,9 +14,9 @@ Here's a curated list of design and development tools I work with, complete with
 | KiCad                       | ![KiCad Logo](https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg) |
 | Altium                     | ![Altium Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0MmmNLeuQl7eGa_dr-Sw_no2K3s7m3I0cg&s) |
 | TI WEBENCH                  | ![TI Web Bench Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnnJwWtY4nXGqtHUuS7WgbIlCqIUC_5nSwUA&s) |
-| STM32CubeIDE                | ![STM32 CUBE IDE Logo](https://www.st.com/bin/ecommerce/api/image.PF267946.en.feature-description-include-personalized-no-cpn-large.jpg) |
+| STM32CubeIDE                | ![STM32 CUBE IDE Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjAAm9m1Gb0WHC-DbwvbKcmJGzm5DIA082w&s) |
 | ESP32 (Espressif Systems)   | ![ESP32 Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1QabAzuzqD1Ble8J5LxBmzM14wHPqJX8pxg&s) |
-| Analog Devices Tools        | ![Analog Device Logo]() |
+| Analog Devices Tools        | ![Analog Device Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnkKsu07Hav59ynQQJQP-8BuOFsF7b3XCkZw&s) |
 
 ---
 
