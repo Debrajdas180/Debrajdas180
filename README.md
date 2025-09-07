@@ -12,8 +12,8 @@ Here's a curated list of design and development tools I work with, complete with
 | Tool / Platform             | Logo |
 |-----------------------------|------|
 | KiCad                       | ![KiCad Logo](https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg) |
-| Cadence                     | ![Cadence Logo](https://pbs.twimg.com/media/FyRNPqFXsAILCMA.png) |
-| TI WEBENCH                  | *(https://www.ti.com/content/dam/videos/external-videos/en-us/3/3816841626001/5809928053001.mp4/jcr%3Acontent/renditions/brc_thumbnail.png)* |
+| Cadence                     | ![Cadence Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0MmmNLeuQl7eGa_dr-Sw_no2K3s7m3I0cg&s) |
+| TI WEBENCH                  | *(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06hS-I6gJjckgOfYxM07e5ZIWnT2CugB5zA&s)* |
 | STM32CubeIDE                | *(https://www.st.com/bin/ecommerce/api/image.PF267946.en.feature-description-include-personalized-no-cpn-large.jpg)* |
 | ESP32 (Espressif Systems)   | *(https://wiki.52pi.com/images/5/53/Esp32.png)* |
 | Analog Devices Tools        | *(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analog.com%2Fen%2Fwho-we-are.html&psig=AOvVaw0UUU5YTYT2YXCnBzXHrvFB&ust=1757350262640000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDfi4SOx48DFQAAAAAdAAAAABAE)* |
@@ -28,9 +28,6 @@ Here's a curated list of design and development tools I work with, complete with
 
 ---
 
-##  Additional Sections (Optional Enhancements)
-
-If you’d like your GitHub README to be even more complete, consider adding the following sections:
 
 - **Skills**: List languages, protocols, and hardware competencies (e.g., C/C++, Python, I²C, SPI, etc.).
 - **Projects**: Showcase live projects with descriptions, highlights, and live demo links or GIFs.
